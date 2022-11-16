@@ -81,3 +81,7 @@
 
     git checkout 'hash' 
 
+Чтобы переключится на коммит, на который указывает marter нужно ввести команду:
+
+    git checkout master
+
