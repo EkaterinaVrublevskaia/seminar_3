@@ -199,6 +199,3 @@ or
 
     git branch -D <name of branch>
 
-
-
-Дополнить информацию о ветвлении.
