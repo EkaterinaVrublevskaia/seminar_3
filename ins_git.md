@@ -199,3 +199,4 @@ or
 
     git branch -D <name of branch>
 
+## Удаленные репозитории
